@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #00B4DB;  
+    background: -webkit-linear-gradient(to right, #0083B0, #00B4DB);  
+    background: linear-gradient(to right, #0083B0, #00B4DB); 
+ 
+    
+  }
+  
+  
